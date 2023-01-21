@@ -13,8 +13,11 @@ Expérience 1 : Une immersion virtuelle dans des temporalités passées ou futur
 Expérience 2 : Nous souhaitons confirmer qu’il existe bien une différence en termes d’épisodicité entre des simulations mentales passées et futures après immersion dans des conditions de temporalités plus ou moins éloignées (ie. effet de la distance temporelle). Les participants n’auront pas à retenir d’items classés par catégorie et l'expérience reposera principalement sur l’analyse des productions épisodiques. Cette expérience permettra également d’effectuer une comparaison en intra-participant qui n’est pas possible dans l'expérience 1. Nous faisons l’hypothèse d’un score d’épisodicité plus faible dans les conditions les plus lointaines par rapport aux conditions les plus proches, indépendamment du caractère passé ou futur de l’immersion.
 Expérience 3 : Cette expérience vise à confirmer l’effet d’amorçage par l’ immersion en réalité virtuelle dans des temporalités passées ou futures sur l’épisodicité de projections de soi (ie. effet d’amorçage temporel). Pour s'assurer que la comparaison soit valide, une condition “neutre” sera présentée aux participants. La comparaison se fera en intra-participant entre l’épisodicité de simulations autobiographiques faisant suite à une immersion dans une temporalité spécifique comparativement à l’environnement neutre. Nous faisons l’hypothèse d’une épisodicité plus forte dans chaque condition de temporalité comparativement à la condition neutre.
 
-![Films et TV 20_01_2023 13_50_22](https://user-images.githubusercontent.com/83284382/213870567-795edb57-6216-4286-86df-2e9a52bb884a.png)
 
+![Capture d’écran (83)](https://user-images.githubusercontent.com/83284382/213870702-4bf47dfd-9c81-418b-8814-331a87281294.png)
+![Capture d’écran (84)](https://user-images.githubusercontent.com/83284382/213870704-20cad539-0530-4167-a3f8-be97f0666985.png)
+![Capture d’écran (85)](https://user-images.githubusercontent.com/83284382/213870709-8842fd2c-a832-481f-af04-cde686b8c308.png)
+![Capture d’écran (86)](https://user-images.githubusercontent.com/83284382/213870715-991663c8-0884-4eef-b91f-7580cb9eb885.png)
 
 # Description approfondie du projet
 
@@ -62,7 +65,9 @@ La comparaison se fera en intra-participant entre l’épisodicité de simulatio
 En accord avec Mace et al. Nous faisons l’hypothèse d’une épisodicité plus forte dans chaque condition de temporalité comparativement à la condition neutre. En accord avec La Corte et Piolino (2016) qui ont proposé le modèle TEDIFT de la sémantisation croissante des informations autobiographiques avec la distance temporelle, nous faisons l’hypothèse d’une épisodicité des simulations autobiographiques plus forte dans les conditions de temporalité les plus proches comparativement aux plus éloignées dans le temps. Toujours en accord avec Addis et al. Nous supposons qu’il n’y aura pas d’effet d’interaction entre la condition de temporalité et la distance temporelle.
 ![nouvelle manip - Untitled Page (1)](https://user-images.githubusercontent.com/83284382/213870413-5599d9c5-b8ca-4e99-a3fd-a2cf104b1d4d.jpeg)
 
-## Materiel et methodes 
+# Materiel et methodes 
+
+![Temporality_video mov - Lecteur multimédia VLC 20_01_2023 13_46_55](https://user-images.githubusercontent.com/83284382/213870878-f7cb26d2-f1a3-447b-80a0-3d14dc2b85b2.png)
 
 ### Participants
 
@@ -72,7 +77,7 @@ Nous souhaitons mener nos trois études chez 116 volontaires adultes sains (entr
 
 Le matériel employé pour l’immersion est un casque HTC Vive 1.5 (n° 99 HAN 064-00). L’environnement immersif a été développé sur le logiciel Unity (version 2020.3.20). Les questionnaires, ainsi que le diaporama utilisé pour la récupération seront visionnés sur un écran 17 pouces de marque Acer.  Les objets sélectionnés pour la phase d’encodage dans le Musée (expérience 1) ont été sélectionnés parmi une banque d’assets contenant 150 objets 3D standardisés et en libre accès sur le site du Max Planck Institute for Psycholinguistic . Ces objets ont été analysés initialement en terme de concordance du nom, de familiarité, de taille, de couleur, et de complexité visuelle (Peeters, 2018). Nous souhaitons évaluer à nouveau auprès de 30 personnes les objets sélectionnés en termes d’accord du noms et de familiarité (c’est une étude néerlandaise) et extraire 5 à 6 catégories appariées en termes de valence émotionnelle. Pour chaque catégorie nous retiendrons entre 6 et 9 objets. Les quatre environnements immersifs “passé proche” et “passé lointain" et “futur proche” et “futur lointain" correspondent à un itinéraire simple dans une grande capitale inspirée de Paris. Ces univers sont très proches et ont la même structure, les immeubles sont quasiment similaires, et la différence de temporalité se fait plutôt sur les détails.
 
-### Design général
+## Design général
 
 Les expériences  seront réparties comme ceci : un accueil avec briefing, une série de questionnaires pré-tests à remplir, deux tests psychométriques, puis une phase d'entraînement à la production de simulations épisodiques. Ensuite,  une phase d'entraînement à la VR, puis une phase expérimentale en immersion (incluant une phase de rappel pour l'expérience 1), puis encore une série de questionnaires post-tests, et enfin une phase de débriefing.
 
@@ -91,5 +96,86 @@ Dans les quatre conditions, le principe sera absolument identique. Les participa
 #### Méthode expérience 3
 Cette expérience dure environ 45 minutes.
 Dans les quatre conditions, le principe sera absolument identique. Les participants seront immergé dans un premier environnement neutre ou dans une temporalité spécifique en fonction de leur condition de contrebalancement, ils auront pour consigne de découvrir leur environnement à leur rythme et de ne pas hésiter à s’attarder sur certains détails qui attirent leur attention. L’environnement visité fait une boucle, une fois cette boucle terminée ils pourront enlever le matériel de réalité virtuelle et répondre à une consigne leur signifiant d’évoquer une simulation autobiographique liée à la temporalité. Lorsque cela sera terminé, il leur sera demandé d’évaluer l’épisodicité de leur simulation en notant 8 items sur une échelle de Likert de 1 à 7 (TEMPau). Puis une série de 4 items conçus Ad-hoc pour cette expérience, reposant sur sur une échelle similaire, permettra d’évaluer le ressenti émotionnel associé à l’environnement virtuel. Enfin un questionnaire sur le sentiment de présence sera administré. Ensuite les participants visiteront un deuxième environnement (neutre ou temporalité spécifique, en fonction de l’immersion précédente) et la procédure se répétera exactement de la même manière. Chaque participant sera donc immergé à la fois dans un environnement neutre et un environnement “temporel” correspondant à l’une des 4 conditions de temporalités, selon son groupe (passé lointain, passé proche, futur proche, futur lointain).
+
+
+
+# Blibiography
+
+* Addis, D. R., & McAndrews, M. P. (2006). Prefrontal and hippocampal contributions to the generation and binding of semantic associations during successful encoding. Neuroimage, 33(4), 1194-1206.
+* Addis, D.R., and Schacter, D.L. (2008). Constructive episodic simulation: temporal distance and detail of past and future events modulate hippocampal engagement. Hippocampus 18, 227–237.
+* Addis, D. R. (2018). Are episodic memories special? On the sameness of remembered and imagined event simulation. Journal of the Royal Society of New Zealand, 48(2-3), 64-88.
+* Anderson, M. C., Bjork, R. A., & Bjork, E. L. (1994). Remembering can cause forgetting: retrieval dynamics in long-term memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 20(5), 1063.
+* Anderson, M. C., Bjork, E. L., & Bjork, R. A. (2000). Retrieval-induced forgetting: Evidence for a recall-specific mechanism. Psychonomic bulletin & review, 7(3), 522-530.
+* Anderson, R. J., & Dewhurst, S. A. (2009). Remembering the past and imagining the future: Differences in event specificity of spontaneously generated thought. Memory, 17(4), 367-373.
+* Atance, C. M., & O'Neill, D. K. (2001). Episodic future thinking. Trends in cognitive sciences, 5(12), 533-539.
+* Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: A proposed system and its control processes. In Psychology of learning and motivation (Vol. 2, pp. 89-195). Academic Press.
+* Baddeley, A. D., & Hitch, G. (1974). Working memory. In Psychology of learning and motivation (Vol. 8, pp. 47-89). Academic press.
+* Broadbent, D. E. (1958). Perception and communication. New York: Oxford University Press.
+* Buckner, R. L., & Carroll, D. C. (2007). Self-projection and the brain. Trends in cognitive sciences, 11(2), 49-57.
+* Cohen, N. J., & Squire, L. R. (1980). Preserved learning and retention of pattern-analyzing skill in amnesia: Dissociation of knowing how and knowing that. Science, 210(4466), 207-210.
+* D’Argembeau, A., & Van der Linden, M. (2004). Phenomenal characteristics associated with projecting oneself back into the past and forward into the future: Influence of valence and temporal distance. Consciousness and cognition, 13(4), 844-858.
+* Déjos, M., Sauzéon, H., & N'kaoua, B. (2011). Virtual reality for clinical assessment of elderly people: early screening for dementia. Revue neurologique, 168(5), 404-414.
+* Ditta, A. S., & Storm, B. C. (2016). Thinking about the future can cause forgetting of the past. Quarterly Journal of Experimental Psychology, 69(2), 339-350.
+* Ebbinghaus, H. (1885). Über das gedächtnis: untersuchungen zur experimentellen psychologie. Duncker & Humblot.
+* Eichenbaum, H. (2001). The hippocampus and declarative memory: cognitive mechanisms and neural codes. Behavioural brain research, 127(1-2), 199-207.
+* Fitts, W. H., & Warren, W. L. (1996). Tennessee self-concept scale: TSCS-2 (p. 118). Los Angeles: Western Psychological Services.
+* Gardiner, J. M. (1988). Functional aspects of recollective experience. Memory & cognition, 16(4), 309-313.
+* Garrard, P., Perry, R., & Hodges, J. R. (1997). Disorders of semantic memory. Journal of Neurology, Neurosurgery, and Psychiatry, 62(5), 431.
+* Golding, J. F. (1998). Motion sickness susceptibility questionnaire revised and its relationship to other forms of sickness. Brain research bulletin, 47(5), 507-516.
+* Grilli, M. D., & Verfaellie, M. (2014). Personal semantic memory: insights from neuropsychological research on amnesia. Neuropsychologia, 61, 56-64.
+* Jaffard, R. (2011). La mémoire déclarative et le modèle de Squire. Revue de neuropsychologie, 3(2), 83-93.
+* James, W., Burkhardt, F., Bowers, F., & Skrupskelis, I. K. (1890). The principles of psychology (Vol. 1, No. 2). London: Macmillan.
+* Kennedy, R. S., Lane, N. E., Berbaum, K. S., & Lilienthal, M. G. (1993). Simulator sickness questionnaire: An enhanced method for quantifying simulator sickness. The international journal of aviation psychology, 3(3), 203-220.
+* Klein, S. B., & Gangi, C. E. (2010). The multiplicity of self: Neuropsychological evidence and its implications for the self as a construct in psychological research. Ann N Y Acad Sci, 1191, 1–15.
+* Klein, S. B., Loftus, J., & Kihlstrom, J. F. (2002). Memory and temporal experience: The effects of episodic memory loss on an amnesic patient's ability to remember the past and imagine the future. Social Cognition, 20(5), 353-379.
+* La Corte, V., & Piolino, P. (2016). On the Role of Personal semantic memory and temporal distance in episodic future thinking: the TEDIFT model. Frontiers in human neuroscience, 10, 385.
+* La Corte, V., Ferrieux, S., Abram, M., Bertrand, A., Dubois, B., Teichmann, M., & Piolino, P. (2021). The role of semantic memory in prospective memory and episodic future thinking: New insights from a case of semantic dementia. Memory, 29(8), 943-962.
+* Laisney, M., Eustache, F., & Desgranges, B. (2009). Évaluation de la mémoire sémantique relative aux personnes célèbres-SemPer. Revue de neuropsychologie, 1(2), 175-183.
+* Lecouvey, G., Gonneaud, J., Eustache, F., & Desgranges, B. (2012). Les apports de la réalité virtuelle en neuropsychologie: l'exemple de la mémoire prospective. Revue de neuropsychologie, 4(4), 267-276.
+* Lieury, A. (2021). Psychologie de la mémoire: Histoire, théories et expériences. Dunod.
+* Mace, J. (2005). Priming involuntary autobiographical memories. Memory, 13(8), 874-884.
+* Mace, J. H., & Clevinger, A. M. (2013). Priming voluntary autobiographical memories: Implications for the organization of autobiographical memory and voluntary recall processes. Memory, 21(4), 524-536.
+* Mace, J. H., & Unlu, M. (2020). Semantic-to-autobiographical memory priming occurs across multiple sources: Implications for autobiographical remembering. Memory & Cognition, 48(6), 931-941.
+* Mace, J. H., McQueen, M. L., Hayslett, K. E., Staley, B. J. A., & Welch, T. J. (2019). Semantic memories prime autobiographical memories: General implications and implications for everyday autobiographical remembering. Memory & cognition, 47(2), 299-312.
+* Mace, J. H., & Petersen, E. P. (2020). Priming autobiographical memories: How recalling the past may affect everyday forms of autobiographical remembering. Consciousness and Cognition, 85, 103018.
+* Martin, V. C., Schacter, D. L., Corballis, M. C., & Addis, D. R. (2011). A role for the hippocampus in encoding simulations of future events. Proceedings of the National Academy of Sciences, 108(33), 13858-13863.
+* Moscovitch, M., Cabeza, R., Winocur, G., & Nadel, L. (2016). Episodic memory and beyond: the hippocampus and neocortex in transformation. Annual review of psychology, 67, 105-134.
+* Murayama, K., Miyatsu, T., Buchli, D., & Storm, B. C. (2014). Forgetting as a consequence of retrieval: a meta-analytic review of retrieval-induced forgetting. Psychological bulletin, 140(5), 1383.
+* Nigro, G., & Neisser, U. (1983). Point of view in personal memories. Cognitive psychology, 15(4), 467-482.
+* Okuda, J., Fujii, T., Ohtake, H., Tsukiura, T., Tanji, K., Suzuki, K., ... & Yamadori, A. (2003). Thinking of the future and past: The roles of the frontal pole and the medial temporal lobes. Neuroimage, 19(4), 1369-1380.
+* Peeters, D. (2018). A standardized set of 3-D objects for virtual reality research and applications. Behavior research methods, 50(3), 1047-1054.
+* Piolino, P., Desgranges, B., Eustache, F., & Eustache, F. (2000). La mémoire autobiographique: théorie et pratique (pp. 45-47). Marseille: Solal.
+* Piolino, P. (2003 a). La mémoire autobiographique: modèles et évaluations. Évaluation et prise en charge des troubles mnésiques, 195-221.
+* Piolino, P. (2003 b). Le vieillissement normal de la mémoire autobiographique. Psychologie & NeuroPsychiatrie du vieillissement, 1(1), 25-35.
+* Piolino, P., Desgranges, B., Clarys, D., Guillery-Girard, B., Taconnat, L., Isingrini, M., & Eustache, F. (2006). Autobiographical memory, autonoetic consciousness, and self-perspective in aging. Psychology and aging, 21(3), 510.
+* Piolino, P. (2008). Évaluation et prise en charge des troubles de mémoire autobiographique en neuropsychologie. Des amnésies organiques aux amnésies psychogènes. Marseille: Solal, 339-88.
+* Piolino, P., Desgranges, B., & Eustache, F. (2009). Episodic autobiographical memories over the course of time: Cognitive, neuropsychological and neuroimaging findings. Neuropsychologia, 47(11), 2314-2329.
+* Plancher, G., Nicolas, S., & Piolino, P. (2008, October). Virtual reality as a tool for assessing episodic memory. In Proceedings of the 2008 ACM symposium on Virtual reality software and technology (pp. 179-182).
+* Plancher, G., Gyselinck, V., Nicolas, S., & Piolino, P. (2010). Age effect on components of episodic memory and feature binding: A virtual reality study. Neuropsychology, 24(3), 379.
+* Plancher, G., Tirard, A., Gyselinck, V., Nicolas, S., & Piolino, P. (2012). Using virtual reality to characterize episodic memory profiles in amnestic mild cognitive impairment and Alzheimer's disease: influence of active and passive encoding. Neuropsychologia, 50(5), 592-602.
+* Pollack, I., Johnson, L. B., & Knaff, P. R. (1959). Running memory span. Journal of experimental Psychology, 57(3), 137.
+Purkart, R., Vallet, G. T., & Versace, R. (2019). Améliorer la remémoration d’évènements autobiographiques et l’imagination d’évènements futurs grâce à l'Induction de spécificité épisodique: adaptation et validation en Français. L'Année psychologique, 119(1), 25-53.
+* Raven, J. C. (1958). Guide to using the Mill Hill Vocabulary Scale with the Progressive Matrices Scales.
+* Renoult, L., Davidson, P. S., Palombo, D. J., Moscovitch, M., & Levine, B. (2012). Personal semantics: at the crossroads of semantic and episodic memory. Trends in cognitive sciences, 16(11), 550-558.
+* Ribot, T. (1881). Les maladies de la mémoire: 1881. Editions L'Harmattan.
+* Robinson, J. A., & Swanson, K. L. (1993). Field and observer modes of remembering. Memory, 1(3), 169-184.
+* Sauzéon, H., Pala, P. A., Larrue, F., Wallet, G., Déjos, M., Zheng, X., ... & N’Kaoua, B. (2012). The use of virtual reality for episodic memory assessment. Experimental psychology.
+* Schacter, D. L., Addis, D. R., Hassabis, D., Martin, V. C., Spreng, R. N., & Szpunar, K. K. (2012). The future of memory: remembering, imagining, and the brain. Neuron, 76(4), 677-694.
+* Schacter, D. L., Addis, D. R., Hassabis, D., Martin, V. C., Spreng, R. N., & Szpunar, K. K. (2012). The future of memory: remembering, imagining, and the brain. Neuron, 76(4), 677-694.
+* Schacter, D.L., and Addis, D.R. (2007a). The cognitive neuroscience of constructive memory: remembering the past and imagining the future. Philos. Trans. R. Soc. Lond. B Biol. Sci. 362, 773–786.
+* Schacter, D.L., and Addis, D.R. (2007b). Constructive memory: the ghosts of past and future. Nature 445, 27
+* Shiffrin, R. M., & Atkinson, R. C. (1969). Storage and retrieval processes in long-term memory. Psychological Review, 76(2), 179.
+* Spielberger, C. D. (2010). Test anxiety inventory. The Corsini encyclopedia of psychology, 1-1.
+* Squire, L. R., & Zola-Morgan, S. (1991). The medial temporal lobe memory system. Science, 253(5026), 1380-1386.
+* Storm, B. C., & Jobe, T. A. (2012). Remembering the past and imagining the future: Examining the consequences of mental time travel on memory. Memory, 20(3), 224-235.
+* Storm, B. C., Angello, G., Buchli, D. R., Koppel, R. H., Little, J. L., & Nestojko, J. F. (2015). A review of retrieval-induced forgetting in the contexts of learning, eyewitness memory, social cognition, autobiographical memory, and creative cognition. Psychology of learning and motivation, 62, 141-194.
+* Szpunar, K. K. (2010). Episodic future thought: An emerging concept. Perspectives on Psychological Science, 5(2), 142-162.
+* Szpunar, K.K., Watson, J.M., and McDermott, K.B. (2007). Neural substrates of envisioning the future. Proc. Natl. Acad. Sci. USA 104, 642–647
+* Tombaugh, T. N. (2004). Trail Making Test A and B: normative data stratified by age and education. Archives of clinical neuropsychology, 19(2), 203-214.
+* Tulving, E. (1972). 12. Episodic and Semantic Memory. Organization of memory/Eds E. Tulving, W. Donaldson, NY: Academic Press, 381-403.
+* Tulving, E. (1985 a). Memory and consciousness. Canadian Psychology/Psychologie canadienne, 26(1), 1.
+* Tulving, E. (1985 b). How many memory systems are there?. American psychologist, 40(4), 385.
+* Wheeler, M. A., Stuss, D. T., & Tulving, E. (1997). Toward a theory of episodic memory: the frontal lobes and autonoetic consciousness. Psychological bulletin, 121(3), 331.
+* Witmer, B. G., Jerome, C. J., & Singer, M. J. (2005). The factor structure of the presence questionnaire. Presence: Teleoperators & Virtual Environments, 14(3), 298-312.
 
 
