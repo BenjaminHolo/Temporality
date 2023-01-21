@@ -97,7 +97,7 @@ Dans les quatre conditions, le principe sera absolument identique. Les participa
 Cette expérience dure environ 45 minutes.
 Dans les quatre conditions, le principe sera absolument identique. Les participants seront immergé dans un premier environnement neutre ou dans une temporalité spécifique en fonction de leur condition de contrebalancement, ils auront pour consigne de découvrir leur environnement à leur rythme et de ne pas hésiter à s’attarder sur certains détails qui attirent leur attention. L’environnement visité fait une boucle, une fois cette boucle terminée ils pourront enlever le matériel de réalité virtuelle et répondre à une consigne leur signifiant d’évoquer une simulation autobiographique liée à la temporalité. Lorsque cela sera terminé, il leur sera demandé d’évaluer l’épisodicité de leur simulation en notant 8 items sur une échelle de Likert de 1 à 7 (TEMPau). Puis une série de 4 items conçus Ad-hoc pour cette expérience, reposant sur sur une échelle similaire, permettra d’évaluer le ressenti émotionnel associé à l’environnement virtuel. Enfin un questionnaire sur le sentiment de présence sera administré. Ensuite les participants visiteront un deuxième environnement (neutre ou temporalité spécifique, en fonction de l’immersion précédente) et la procédure se répétera exactement de la même manière. Chaque participant sera donc immergé à la fois dans un environnement neutre et un environnement “temporel” correspondant à l’une des 4 conditions de temporalités, selon son groupe (passé lointain, passé proche, futur proche, futur lointain).
 
-
+https://www.youtube.com/watch?v=F9lxz3fT_0s&ab_channel=TemporalityLMC2
 
 # Blibiography
 
